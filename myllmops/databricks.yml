@@ -52,4 +52,4 @@ targets:
     variables:
       catalog_name: test
     workspace:
-      host: https://adb-xxxx.xx.azuredatabricks.net
+      host: https://adb-1553298364027412.12.azuredatabricks.net
