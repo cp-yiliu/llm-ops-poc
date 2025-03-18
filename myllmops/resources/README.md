@@ -9,7 +9,7 @@
 * [Deploy initial ML resources](#deploy-initial-ml-resources)
 * [Deploy config changes](#deploy-config-changes)
 
-## Intro
+## Introduction
 
 ### databricks CLI bundles
 MLOps Stacks ML resources are configured and deployed through [databricks CLI bundles](https://learn.microsoft.com/azure/databricks/dev-tools/cli/bundle-cli).
