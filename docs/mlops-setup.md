@@ -93,7 +93,7 @@ to get your service principal credentials (tenant id, application id, and client
 to add the following secrets to GitHub:
 - `PROD_AZURE_SP_TENANT_ID`
 - `PROD_AZURE_SP_APPLICATION_ID`
-- `PROD_AZURE_SP_CLIENT_SECRET` 
+- `PROD_AZURE_SP_CLIENT_SECRET`
 - `STAGING_AZURE_SP_TENANT_ID`
 - `STAGING_AZURE_SP_APPLICATION_ID`
 - `STAGING_AZURE_SP_CLIENT_SECRET`
