@@ -17,7 +17,7 @@ This directory contains an ML project based on the default
 defining a production-grade ML pipeline for automated retraining and batch inference of an ML model on tabular data.
 
 ## Code structure
-This project contains the following components: 
+This project contains the following components:
 
 | Component                  | Description                                                                                                                                                                                                                                                                                                                                             |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
