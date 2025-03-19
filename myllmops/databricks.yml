@@ -31,16 +31,16 @@ targets:
     mode: development
     default: true
     variables:
-      catalog_name: dev
+      catalog_name: llm_ops_poc_dev
     workspace:
       # TODO: add dev workspace URL
-      host:
+      host: https://adb-1553298364027412.12.azuredatabricks.net
 
   staging:
     variables:
-      catalog_name: staging
+      catalog_name: llm_ops_poc_staging
     workspace:
-      host: https://adb-xxxx.xx.azuredatabricks.net
+      host: https://adb-1553298364027412.12.azuredatabricks.net
 
   prod:
     variables:
@@ -50,6 +50,6 @@ targets:
 
   test:
     variables:
-      catalog_name: test
+      catalog_name: llm_ops_poc_test
     workspace:
-      host: https://adb-xxxx.xx.azuredatabricks.net
+      host: https://adb-1553298364027412.12.azuredatabricks.net
