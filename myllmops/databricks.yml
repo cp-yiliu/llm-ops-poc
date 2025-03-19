@@ -50,6 +50,6 @@ targets:
 
   test:
     variables:
-      catalog_name: test
+      catalog_name: llm_ops_poc_test
     workspace:
       host: https://adb-1553298364027412.12.azuredatabricks.net
